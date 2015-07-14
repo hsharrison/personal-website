@@ -1,7 +1,10 @@
 _site/
 sitemap.xml
 
-_includes/cv.html
-publications/cv/cv.pdf
+*.pdf
 
-_includes/experimentator.rst
+_includes/cv.html
+
+publications/cv/fonts
+publications/cv/stylesheets
+publications/cv/images
