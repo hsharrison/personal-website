@@ -33,4 +33,5 @@ harrison-davis-icpa2015: update
 	$(CP) _repos/over-or-around-experiment/harrison-davis-icpa2015.pdf publications/harrison-davis-icpa2015/harrison-davis-icpa2015.pdf
 
 harrison-frank-icpa2015: update
-	$(CP) _repos/over-or-around-experiment/harrison-frank-icpa2015.pdf publications/harrison-frank-icpa2015/harrison-frank-icpa2015.pdf
+	$(CP) _repos/bistable-perception-experiment/harrison-frank-icpa2015.pdf publications/harrison-frank-icpa2015/harrison-frank-icpa2015.pdf
+	
