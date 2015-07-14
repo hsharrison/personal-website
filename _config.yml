@@ -1,0 +1,9 @@
+name: Henry S. Harrison
+markdown: kramdown
+encoding: utf-8
+timezone: America/New_York
+gems:
+  - jekyll-smartify
+  - jekyll-sitemap
+fa_prefix: fa
+fa_exclude:

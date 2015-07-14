@@ -1,0 +1,15 @@
+[submodule "_plugins/jekyll-font-awesome"]
+	path = _plugins/jekyll-font-awesome
+	url = git@gist.github.com:/8532525.git
+[submodule "_plugins/jekyll-rst"]
+	path = _plugins/jekyll-rst
+	url = git@github.com:xdissent/jekyll-rst.git
+[submodule "_repos/cv"]
+	path = _repos/cv
+	url = git@github.com:hsharrison/cv
+[submodule "_repos/over-or-around-experiment"]
+	path = _repos/over-or-around-experiment
+	url = git@github.com:hsharrison/over-or-around-experiment
+[submodule "_repos/bistable-perception-experiment"]
+	path = _repos/bistable-perception-experiment
+	url = git@github.com:hsharrison/bistable-perception-experiment

@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'rubyzip'
+gem 'git'
+gem 'jekyll-smartify'
+gem 'zip'
+gem 'RbST'
+gem 'jekyll-sitemap'
