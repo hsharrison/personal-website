@@ -3,7 +3,7 @@ title: Henry's Publications
 layout: default
 ---
 
-# Publications [({% icon fa-long-arrow-right %} CV)](cv)
+# Selected Publications [({% icon fa-long-arrow-right %} CV)](cv)
 
 
 2015
