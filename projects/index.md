@@ -5,11 +5,11 @@ layout: default
 
 # Open-source projects
 
-#### [{% icon fa-home fa-lg %}](http://experimentator.readthedocs.org/en/latest/) [{% icon fa-github fa-lg %}](https://github.com/hsharrison/experimentator) `experimentator`
+#### [{% icon fa-book fa-lg %}](http://experimentator.readthedocs.org/en/latest/) [{% icon fa-github fa-lg %}](https://github.com/hsharrison/experimentator) `experimentator`
 A framework for designing and running experiments in Python,
 experimentator turns code for running a single trial into a command-line application for running experimental sessions.
 
-#### [{% icon fa-home fa-lg %}](http://pyglet2d.readthedocs.org) [{% icon fa-github fa-lg %}](https://github.com/hsharrison/pyglet2d) `pyglet2d`
+#### [{% icon fa-book fa-lg %}](http://pyglet2d.readthedocs.org) [{% icon fa-github fa-lg %}](https://github.com/hsharrison/pyglet2d) `pyglet2d`
 Shape primitives for the graphics library `pyglet`.
 
 #### [{% icon fa-github fa-lg %}](https://github.com/hsharrison/trackmaster-python) `trackmaster-python`
