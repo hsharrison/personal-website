@@ -1,5 +1,5 @@
 ---
-title: Biography
+title: Henry's Biography
 layout: default
 ---
 

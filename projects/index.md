@@ -1,5 +1,5 @@
 ---
-title: projects
+title: Henry's Projects
 layout: default
 ---
 
