@@ -12,6 +12,9 @@ experimentator turns code for running a single trial into a command-line applica
 #### [{% icon fa-home fa-lg %}](http://pyglet2d.readthedocs.org) [{% icon fa-github fa-lg %}](https://github.com/hsharrison/pyglet2d) `pyglet2d`
 Shape primitives for the graphics library `pyglet`.
 
+#### [{% icon fa-github fa-lg %}](https://github.com/hsharrison/trackmaster-python) `trackmaster-python`
+Control a Trackmaster treadmill over Python.
+
 #### [{% icon fa-github fa-lg %}](https://github.com/hsharrison/sysViewer) `sysViewer`
 A graphical interface for exploring dynamical systems.
 
