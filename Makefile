@@ -13,7 +13,7 @@ TR = tr
 all: site
 
 update:
-	$(GIT) submodule update
+	$(GIT) submodule update --remote
 
 site: update cv harrison-davis-icpa2015 harrison-frank-icpa2015
 	$(JEKYLL) build --source $(SOURCE) --destination $(SITE)
