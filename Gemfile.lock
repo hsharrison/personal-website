@@ -131,6 +131,8 @@ GEM
     rubyzip (1.1.7)
     safe_yaml (1.0.4)
     sass (3.4.16)
+    susy (2.2.11)
+      sass (>= 3.3.0, < 3.5)
     terminal-table (1.5.2)
     thread_safe (0.3.5)
     timers (4.0.1)
@@ -154,7 +156,8 @@ DEPENDENCIES
   jekyll-smartify
   rubyzip
   sass
+  susy
   zip
 
 BUNDLED WITH
-   1.10.5
+   1.11.2
