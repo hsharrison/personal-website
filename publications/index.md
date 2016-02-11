@@ -5,6 +5,10 @@ layout: default
 
 # Selected Publications [({% icon fa-long-arrow-right %} CV)](cv)
 
+2016
+:    **Harrison, H. S.**, Turvey, M. T., and Frank, T. D. (in press).
+     Affordance-based perception-action dynamics: A model of visually guided braking.
+     *Psychological Review*.
 
 2015
 :    [{% icon fa-file-pdf-o %}](frank_profeta_harrison_2015_interplay_between_order-parameter_and_system_parameter_dynamics.pdf)
