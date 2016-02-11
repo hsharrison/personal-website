@@ -28,7 +28,7 @@ He also has experience with motion capture (inertial, magnetic, and camera syste
 A graduate of Michael Turvey's infamous teaching course, Henry enjoys teaching Psychology.
 At UConn, he taught laboratory sections to upper-level undergraduates, in which he guided students through the experimental process from developing an idea to running participants to presenting at a poster session.
 Additionally, in Fall 2014 he was the lecturer for *General Psychology I* at UConn's Hartford campus.
-In Spring 2016, he will be a Visiting Lecturer at Trinity College, where he will take over Bill Mace's course *Perception Laboratory*.
+Currently he is a Visiting Lecturer at Trinity College, where he is teaching *Perception Laboratory*.
 
 ### Scientific computing
 Henry is active in the scientific-computing community and has released several [open-source projects](open-source).
