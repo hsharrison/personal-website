@@ -23,6 +23,9 @@ serve: site
 
 cv: update
 	cd _repos/cv && $(MAKE) html pdf public-cv=true HTMLTOPDF=wkhtmltopdf
+	$(RM) -fr publications/cv/stylesheets
+	$(RM) -fr publications/cv/fonts
+	$(RM) -fr publications/cv/images
 	$(MV) _repos/cv/dist/* publications/cv/
 	$(GREP) -v DOCTYPE publications/cv/cv.html | $(TR) '\n' '\f' | \
 	$(SED) 's#        <link rel="stylesheet" href="stylesheets/style.css">#        <link rel="stylesheet" href="stylesheets/style.css">\f        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">#' \
