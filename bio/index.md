@@ -42,5 +42,5 @@ He has led workshops in scientific programming, version control, and reproducibl
 Henry grew up in the suburbs of Boston with four younger siblings.
 He currently resides in Bolton, CT with his wife.
 
-Henry's tastes in media (books, television, movies, podcasts, games, Wikipedia-browsing, etc.) reflect a deep (but not exclusive) interest in history and human geography.
+Henry's tastes in media (books, television, movies, podcasts, games, Wikipedia-browsing, etc.) reflect interests in history and human geography.
 When not sciencing or consuming media, he may be traveling, cooking, playing piano, moving heavy objects up and down (weightlifting), or applying his quantitative skills to fantasy sports.
